@@ -1,0 +1,6 @@
+1.1 Open website an automation script. Result: website open.
+1.2 Create an environment file.
+1.3 Fill in the "Username" text "admin" and click button Login. Result: error message "Please enter your password." (you can see in folder screen/error_password.png)
+1.4 Fill in the "Password" text "admin" and click button Login. Result: error message "Please enter username." (you can see in folder screen/error_username.png)
+1.5 Fill in the "Username" and "password" symbol and click button Login. Result: error message "Not account found with that username." (you can see in folder screen/error_symbol.png)
+1.6 Fill in the "Username" and "Password" text "admin" and click button Login. Result: error message "Not account found with that username." (you can see in folder screen/error_not_found_acc.png)
